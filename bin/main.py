@@ -39,7 +39,7 @@ def mainloop():
         getdog()
     
     if dogcount >= 0:
-        print('want another dog? [enter] for yes, [q] to quit. (' + str(dogcount) + ' dog(s) viewed)')
+        print('want another dog? [enter] for yes, [l] to list breeds, [q] to quit. (' + str(dogcount) + ' dog(s) viewed)')
         answer = input()
         if answer == "":
             print()
