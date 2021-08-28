@@ -1,6 +1,3 @@
-# DogPy
-Look at images of dogs
-
 # DogPy v0.2
 Look at images of dogs
 
