@@ -39,7 +39,6 @@ def mainloop():
         getdog()
     
     if dogcount >= 0:
-        os.system('clear')
         print('want another dog? [enter] for yes, [q] to quit. (' + str(dogcount) + ' dog(s) viewed)')
         answer = input()
         if answer == "":
@@ -52,7 +51,7 @@ def mainloop():
             print("'''                     ")
             time.sleep()
             mainloop()
-
+            
 # start program
 while True:
     mainloop()
