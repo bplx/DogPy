@@ -1,4 +1,8 @@
-# DogPy
+# !!! WARNING !!!
+YOU ARE IN THE TESTING BRANCH (v0.2)
+STUFF IS GOING TO BREAK. THIS IS ONLY IN DEVELOPEMENT!
+
+# DogPy v0.2
 Look at images of dogs
 
 # Hey, wait, weren't you doing C++ last time?
