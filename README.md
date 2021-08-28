@@ -11,6 +11,10 @@ think i may settle on Python.. i like requests :DD
 3. feh with libcurl support
 4. the internet
 
+# Features
+. Look at dogs.
+. That's all :)
+
 # Usage
 1. Run the python file
 2. Look at dog
