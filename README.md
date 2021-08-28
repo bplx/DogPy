@@ -12,10 +12,10 @@ think i may settle on Python.. i like requests :DD
 4. the internet
 
 # Features
-Current       | Testing       | In Development
-------------- | ------------- | --------------
-Look at dogs  | Look at dogs  | List breeds
-              |               | Choose breeds
+Current          | Testing                  | In Development
+---------------- | ------------------------ | --------------
+Look at dogs     | Look at dogs             | List breeds
+TBA from Testing | TBA from In Developement | Choose breeds
 
 # Usage
 1. Run the python file
