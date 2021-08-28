@@ -1,4 +1,4 @@
-# DogPy
+# DogPy v0.1
 Look at images of dogs
 
 # Hey, wait, weren't you doing C++ last time?
