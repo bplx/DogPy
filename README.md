@@ -5,6 +5,8 @@ Look at images of dogs
 Yes i was! I'm really indecisive on what language i want to focus on but i
 think i may settle on Python.. i like requests :DD
 
+EDITING THIS SECTION: I just found out about combining C++ and Python and i am currently having an anyerumsdmsfklfsgfmdf
+
 # Dependencies
 1. (pip) requests
 2. `clear` command available in console
