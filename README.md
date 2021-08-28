@@ -12,8 +12,10 @@ think i may settle on Python.. i like requests :DD
 4. the internet
 
 # Features
-. Look at dogs.
-. That's all :)
+Current       | Testing       | In Development
+------------- | ------------- | --------------
+Look at dogs  | Look at dogs  | List breeds
+              |               | Choose breeds
 
 # Usage
 1. Run the python file
