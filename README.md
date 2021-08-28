@@ -2,6 +2,10 @@
 YOU ARE IN THE TESTING BRANCH (v0.2)
 STUFF IS GOING TO BREAK. THIS IS ONLY IN DEVELOPEMENT!
 
+I'm not going to add releases here because ~~i'm lazy~~ it's the testing branch so almost nothing is going to work.
+
+If you really want to use it, go into bin/ and grab the python file for yourself.
+
 # DogPy v0.2
 Look at images of dogs
 
