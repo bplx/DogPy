@@ -1,3 +1,6 @@
+### Note:
+Don't mind the other languages, they were added in by virtualenv
+
 # DogPy v0.1
 Look at images of dogs
 
