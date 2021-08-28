@@ -1,5 +1,4 @@
 # get dogs
-# WARNING // INDEV VERSION 0.2
 
 # import stuff and setup stuff lol
 import requests
